@@ -736,6 +736,10 @@ blockquote p {
 	margin-top:15px;
 	display:block;
 }
+
+.second {
+	margin-left: 1em;
+}
 /* ------share------------------------------------------------------------ */
 .share-wrapper {
 	position:fixed;
